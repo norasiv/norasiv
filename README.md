@@ -17,6 +17,7 @@ I am a Frontend and Mobile Development student at Høyskolen Kristiania.
 <img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-323330?style=for-the-badge&logo=swift&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
