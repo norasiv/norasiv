@@ -7,7 +7,7 @@
 
 
 ## :woman_technologist: About Me : 
-I am a Frontend and Mobile Development student at Høyskolen Kristiania.
+I am a Frontend and Mobile Developer.
 
 
 ### ⚡ Technologies
